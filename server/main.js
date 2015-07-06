@@ -45,7 +45,7 @@ TODO: (Order is optional)
 
 	- Decide which should be the first catagory based on command line arguments
 
-	- Add another catagory from the front-page of https://www.reddit.com/r/aww/ pictures (In a way that will work tomorrow when the picture changes as well!)
+	- Add another catagory from the front-page of https://www.reddit.com/r/aww/ pictures (In a way that will work tomorrow when the pictures changes as well!)
 
 	- Overall use of npm
 
