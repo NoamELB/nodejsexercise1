@@ -8,7 +8,7 @@
 		GetCat.$inject = ['$resource', '$q'];
 
 		function GetCat ($resource, $q) {
-			var url = $resource('data/cute');
+			var url = $resource('data');
 			return function () {
 				return new $q(function (resolve, reject) {
 					url.get({}, function (d) {
