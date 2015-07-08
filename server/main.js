@@ -19,7 +19,7 @@ app.listen(app.get('port'), function() {
 	console.log("\t+*+*+ Server up on localhost:" + app.get('port') + " +*+*+");
 });
 
-app.get('/data/cute', log);
+app.get('/data', log);
 
 function log () {
 	console.log("PIC");
